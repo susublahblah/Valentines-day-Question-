@@ -16,7 +16,7 @@ body {
 }
 
 #image-container {
-    /* This container will hold the images 
+    /* This container will hold the images */
 }
 
 #question {
